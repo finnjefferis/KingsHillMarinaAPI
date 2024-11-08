@@ -1,0 +1,83 @@
+# ASP.NET Core
+
+# Build directories
+bin/
+obj/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+.vscode/
+.DS_Store
+node_modules/
+dist/
+
+# DotNet Specific
+*.swp
+*.dbmdl
+*.pdb
+*.pidb
+*.log
+*.sdf
+*.sln.ide
+*.sln.cache
+*.sln.ide.hints
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Database and config files
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.env
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# macOS generated files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must be excluded
+# since it changes the DPI
+# This is a comment
+Icon\r
+
+# Thumbnails
+._*
+
+# Files that might be left by OS or tools
+.DS_Store
+Desktop.ini
+*.lnk
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated JSON
+*.publishsettings
+*.publish.xml
+
+# Text files
+*.txt
+
+# Azure Web App settings
+.kuduignore
